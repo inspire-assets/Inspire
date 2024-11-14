@@ -1,0 +1,362 @@
+<!-- mfn_hook_top --><!-- mfn_hook_top -->
+
+
+
+<header id="mfn-header-template" data-id="18" data-mobile-type="" data-type="fixed"
+    class="mfn-header-tmpl mfn-header-main mfn-header-tmpl-fixed">
+    <div class="mfn-builder-content mfn-header-tmpl-builder">
+        <section
+            class="section mcb-section mfn-default-section mcb-section-zxtu045fu mcb-header-section close-button-left full-width show-on-scroll"
+            style="">
+            <div class="mcb-background-overlay"></div>
+            <div class="section_wrapper mfn-wrapper-for-wraps mcb-section-inner mcb-section-inner-zxtu045fu">
+                <div class="wrap mcb-wrap mcb-wrap-3cnp8lb2w mcb-header-wrap one tablet-one laptop-one mobile-one clearfix"
+                    data-desktop-col="one" data-laptop-col="laptop-one" data-tablet-col="tablet-one"
+                    data-mobile-col="mobile-one" style="">
+                    <div class="mcb-wrap-inner mcb-wrap-inner-3cnp8lb2w mfn-module-wrapper mfn-wrapper-for-wraps">
+                        <div class="mcb-wrap-background-overlay"></div>
+                        <div class="column mcb-column mcb-item-p88ldfkin one laptop-one tablet-one mobile-one column_header_logo mfn-item-custom-width"
+                            style="">
+                            <div
+                                class="mcb-column-inner mfn-module-wrapper mcb-column-inner-p88ldfkin mcb-item-header_logo-inner">
+                                <a class="logo-wrapper" href="/"><img fetchpriority="high"
+                                        src="https://raw.githubusercontent.com/parth1216/inspire/3425ee41598510e6b2d10969984618dcbcb19bf6/wp-content/uploads/2024/10/Inspire-Logo.png#180"
+                                        alt="Inspire Logo" width="1142" height="508"></a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="wrap mcb-wrap mcb-wrap-obdfumxca mcb-header-wrap one tablet-one laptop-one mobile-one clearfix"
+                    data-desktop-col="one" data-laptop-col="laptop-one" data-tablet-col="tablet-one"
+                    data-mobile-col="mobile-one" style="">
+                    <div class="mcb-wrap-inner mcb-wrap-inner-obdfumxca mfn-module-wrapper mfn-wrapper-for-wraps">
+                        <div class="mcb-wrap-background-overlay"></div>
+                        <div class="column mcb-column mcb-item-ris0y8abi one laptop-one tablet-one mobile-one column_header_burger mfn-item-inline"
+                            style="">
+                            <div
+                                class="mcb-column-inner mfn-module-wrapper mcb-column-inner-ris0y8abi mcb-item-header_burger-inner">
+                                <a data-nav="menu-main-menu" href="#"
+                                    class="mfn-icon-box mfn-header-menu-burger mfn-icon-box-top mfn-icon-box-tablet-right mfn-icon-box-center mfn-header-menu-toggle mfn-icon-box-empty-desc"
+                                    title="">
+                                    <div class="icon-wrapper"><i class="icon-menu-fine" aria-hidden="true"></i></div>
+                                </a>
+                                <div
+                                    class="mfn-header-tmpl-menu-sidebar mfn-header-tmpl-menu-sidebar-right mfn-close-icon-pos-default ">
+                                    <div class="mfn-header-tmpl-menu-sidebar-wrapper"><span
+                                            class="mfn-close-icon mfn-header-menu-toggle"><span
+                                                class="icon">&#10005;</span></span>
+                                        <ul id="menu-main-menu"
+                                            class="mfn-header-menu mfn-menu-align-flex-start mfn-menu-tablet-align-flex-start mfn-menu-laptop-align-flex-start mfn-menu-mobile-align-flex-start mfn-items-align-top mfn-menu-icon-left mfn-menu-separator-off mfn-menu-submenu-on-click">
+                                            <li id="menu-item-2001"
+                                                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2001 mfn-menu-li">
+                                                <a href="/" aria-current="page"
+                                                    class="mfn-menu-link"><span
+                                                        class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                        class="label-wrapper mfn-menu-label-wrapper"><span
+                                                            class="menu-label">Home</span></span><span
+                                                        class="menu-sub mfn-menu-subicon"><i
+                                                            class="fas fa-arrow-down"></i></span></a></li>
+                                            <li id="menu-item-14"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14 mfn-menu-li">
+                                                <a href="about-us/"
+                                                    class="mfn-menu-link"><span
+                                                        class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                        class="label-wrapper mfn-menu-label-wrapper"><span
+                                                            class="menu-label">About us</span></span><span
+                                                        class="menu-sub mfn-menu-subicon"><i
+                                                            class="fas fa-arrow-down"></i></span></a></li>
+                                            <li id="menu-item-206"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-206 mfn-menu-li">
+                                                <a href="what-we-do/"
+                                                    class="mfn-menu-link"><span
+                                                        class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                        class="label-wrapper mfn-menu-label-wrapper"><span
+                                                            class="menu-label">What We Do</span></span><span
+                                                        class="menu-sub mfn-menu-subicon"><i
+                                                            class="fas fa-arrow-down"></i></span></a>
+                                                <ul class="sub-menu mfn-submenu">
+                                                    <li id="menu-item-526"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526 mfn-menu-li">
+                                                        <a href="inspire-engage/"
+                                                            class="mfn-menu-link"><span
+                                                                class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                                class="label-wrapper mfn-menu-label-wrapper"><span
+                                                                    class="menu-label">Inspire Engage</span></span><span
+                                                                class="menu-sub mfn-menu-sub-subicon"><i
+                                                                    class="fas fa-arrow-right"></i></span></a></li>
+                                                    <li id="menu-item-525"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525 mfn-menu-li">
+                                                        <a href="inspire-connect/"
+                                                            class="mfn-menu-link"><span
+                                                                class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                                class="label-wrapper mfn-menu-label-wrapper"><span
+                                                                    class="menu-label">Inspire
+                                                                    Connect</span></span><span
+                                                                class="menu-sub mfn-menu-sub-subicon"><i
+                                                                    class="fas fa-arrow-right"></i></span></a></li>
+                                                    <li id="menu-item-524"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524 mfn-menu-li">
+                                                        <a href="inspire-active/"
+                                                            class="mfn-menu-link"><span
+                                                                class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                                class="label-wrapper mfn-menu-label-wrapper"><span
+                                                                    class="menu-label">Inspire Active</span></span><span
+                                                                class="menu-sub mfn-menu-sub-subicon"><i
+                                                                    class="fas fa-arrow-right"></i></span></a></li>
+                                                    <li id="menu-item-528"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528 mfn-menu-li">
+                                                        <a href="inspire-innovate/"
+                                                            class="mfn-menu-link"><span
+                                                                class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                                class="label-wrapper mfn-menu-label-wrapper"><span
+                                                                    class="menu-label">Inspire
+                                                                    Innovate</span></span><span
+                                                                class="menu-sub mfn-menu-sub-subicon"><i
+                                                                    class="fas fa-arrow-right"></i></span></a></li>
+                                                    <li id="menu-item-527"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527 mfn-menu-li">
+                                                        <a href="inspire-events/"
+                                                            class="mfn-menu-link"><span
+                                                                class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                                class="label-wrapper mfn-menu-label-wrapper"><span
+                                                                    class="menu-label">Inspire Events</span></span><span
+                                                                class="menu-sub mfn-menu-sub-subicon"><i
+                                                                    class="fas fa-arrow-right"></i></span></a></li>
+                                                </ul>
+                                            </li>
+                                            <li id="menu-item-203"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203 mfn-menu-li">
+                                                <a href="solution/"
+                                                    class="mfn-menu-link"><span
+                                                        class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                        class="label-wrapper mfn-menu-label-wrapper"><span
+                                                            class="menu-label">Solution</span></span><span
+                                                        class="menu-sub mfn-menu-subicon"><i
+                                                            class="fas fa-arrow-down"></i></span></a></li>
+                                            <li id="menu-item-601"
+                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-601 mfn-menu-li">
+                                                <a href="#" class="mfn-menu-link"><span
+                                                        class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                        class="label-wrapper mfn-menu-label-wrapper"><span
+                                                            class="menu-label">Resources</span></span><span
+                                                        class="menu-sub mfn-menu-subicon"><i
+                                                            class="fas fa-arrow-down"></i></span></a>
+                                                <ul class="sub-menu mfn-submenu">
+                                                    <li id="menu-item-186"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186 mfn-menu-li">
+                                                        <a href="blog/"
+                                                            class="mfn-menu-link"><span
+                                                                class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                                class="label-wrapper mfn-menu-label-wrapper"><span
+                                                                    class="menu-label">Blog</span></span><span
+                                                                class="menu-sub mfn-menu-sub-subicon"><i
+                                                                    class="fas fa-arrow-right"></i></span></a></li>
+                                                    <li id="menu-item-614"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-614 mfn-menu-li">
+                                                        <a href="news/"
+                                                            class="mfn-menu-link"><span
+                                                                class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                                class="label-wrapper mfn-menu-label-wrapper"><span
+                                                                    class="menu-label">News</span></span><span
+                                                                class="menu-sub mfn-menu-sub-subicon"><i
+                                                                    class="fas fa-arrow-right"></i></span></a></li>
+                                                    <li id="menu-item-625"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-625 mfn-menu-li">
+                                                        <a href="success-stories/"
+                                                            class="mfn-menu-link"><span
+                                                                class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                                class="label-wrapper mfn-menu-label-wrapper"><span
+                                                                    class="menu-label">Success
+                                                                    Stories</span></span><span
+                                                                class="menu-sub mfn-menu-sub-subicon"><i
+                                                                    class="fas fa-arrow-right"></i></span></a></li>
+                                                    <li id="menu-item-636"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-636 mfn-menu-li">
+                                                        <a href="gallery/"
+                                                            class="mfn-menu-link"><span
+                                                                class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                                class="label-wrapper mfn-menu-label-wrapper"><span
+                                                                    class="menu-label">Gallery</span></span><span
+                                                                class="menu-sub mfn-menu-sub-subicon"><i
+                                                                    class="fas fa-arrow-right"></i></span></a></li>
+                                                </ul>
+                                            </li>
+                                            <li id="menu-item-13"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13 mfn-menu-li">
+                                                <a href="contact-us/"
+                                                    class="mfn-menu-link"><span
+                                                        class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                        class="label-wrapper mfn-menu-label-wrapper"><span
+                                                            class="menu-label">Contact us</span></span><span
+                                                        class="menu-sub mfn-menu-subicon"><i
+                                                            class="fas fa-arrow-down"></i></span></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="column mcb-column mcb-item-0y3mn24w one laptop-one tablet-one mobile-one column_header_menu mfn-item-inline  hide-tablet hide-mobile"
+                            style="">
+                            <div
+                                class="mcb-column-inner mfn-module-wrapper mcb-column-inner-0y3mn24w mcb-item-header_menu-inner">
+                                <ul id="menu-main-menu-1"
+                                    class="mfn-header-menu mfn-header-mainmenu mfn-menu-align-flex-start mfn-menu-tablet-align-flex-start mfn-menu-mobile-align-flex-start mfn-menu-icon-left mfn-menu-separator-off mfn-menu-submenu-on-hover">
+                                    <li
+                                        class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2001 mfn-menu-li">
+                                        <a href="/" aria-current="page"
+                                            class="mfn-menu-link"><span
+                                                class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                class="label-wrapper mfn-menu-label-wrapper"><span
+                                                    class="menu-label">Home</span></span><span
+                                                class="menu-sub mfn-menu-subicon"><i
+                                                    class="fas fa-arrow-down"></i></span></a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14 mfn-menu-li">
+                                        <a href="about-us/" class="mfn-menu-link"><span
+                                                class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                class="label-wrapper mfn-menu-label-wrapper"><span
+                                                    class="menu-label">About us</span></span><span
+                                                class="menu-sub mfn-menu-subicon"><i
+                                                    class="fas fa-arrow-down"></i></span></a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-206 mfn-menu-li">
+                                        <a href="what-we-do/" class="mfn-menu-link"><span
+                                                class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                class="label-wrapper mfn-menu-label-wrapper"><span
+                                                    class="menu-label">What We Do</span></span><span
+                                                class="menu-sub mfn-menu-subicon"><i
+                                                    class="fas fa-arrow-down"></i></span></a>
+                                        <ul class="sub-menu mfn-submenu">
+                                            <li
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526 mfn-menu-li">
+                                                <a href="inspire-engage/"
+                                                    class="mfn-menu-link"><span
+                                                        class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                        class="label-wrapper mfn-menu-label-wrapper"><span
+                                                            class="menu-label">Inspire Engage</span></span><span
+                                                        class="menu-sub mfn-menu-sub-subicon"><i
+                                                            class="fas fa-arrow-right"></i></span></a></li>
+                                            <li
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525 mfn-menu-li">
+                                                <a href="inspire-connect/"
+                                                    class="mfn-menu-link"><span
+                                                        class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                        class="label-wrapper mfn-menu-label-wrapper"><span
+                                                            class="menu-label">Inspire Connect</span></span><span
+                                                        class="menu-sub mfn-menu-sub-subicon"><i
+                                                            class="fas fa-arrow-right"></i></span></a></li>
+                                            <li
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524 mfn-menu-li">
+                                                <a href="inspire-active/"
+                                                    class="mfn-menu-link"><span
+                                                        class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                        class="label-wrapper mfn-menu-label-wrapper"><span
+                                                            class="menu-label">Inspire Active</span></span><span
+                                                        class="menu-sub mfn-menu-sub-subicon"><i
+                                                            class="fas fa-arrow-right"></i></span></a></li>
+                                            <li
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528 mfn-menu-li">
+                                                <a href="inspire-innovate/"
+                                                    class="mfn-menu-link"><span
+                                                        class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                        class="label-wrapper mfn-menu-label-wrapper"><span
+                                                            class="menu-label">Inspire Innovate</span></span><span
+                                                        class="menu-sub mfn-menu-sub-subicon"><i
+                                                            class="fas fa-arrow-right"></i></span></a></li>
+                                            <li
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527 mfn-menu-li">
+                                                <a href="inspire-events/"
+                                                    class="mfn-menu-link"><span
+                                                        class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                        class="label-wrapper mfn-menu-label-wrapper"><span
+                                                            class="menu-label">Inspire Events</span></span><span
+                                                        class="menu-sub mfn-menu-sub-subicon"><i
+                                                            class="fas fa-arrow-right"></i></span></a></li>
+                                        </ul>
+                                    </li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203 mfn-menu-li">
+                                        <a href="solution/" class="mfn-menu-link"><span
+                                                class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                class="label-wrapper mfn-menu-label-wrapper"><span
+                                                    class="menu-label">Solution</span></span><span
+                                                class="menu-sub mfn-menu-subicon"><i
+                                                    class="fas fa-arrow-down"></i></span></a></li>
+                                    <li
+                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-601 mfn-menu-li">
+                                        <a href="#" class="mfn-menu-link"><span
+                                                class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                class="label-wrapper mfn-menu-label-wrapper"><span
+                                                    class="menu-label">Resources</span></span><span
+                                                class="menu-sub mfn-menu-subicon"><i
+                                                    class="fas fa-arrow-down"></i></span></a>
+                                        <ul class="sub-menu mfn-submenu">
+                                            <li
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186 mfn-menu-li">
+                                                <a href="blog/" class="mfn-menu-link"><span
+                                                        class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                        class="label-wrapper mfn-menu-label-wrapper"><span
+                                                            class="menu-label">Blog</span></span><span
+                                                        class="menu-sub mfn-menu-sub-subicon"><i
+                                                            class="fas fa-arrow-right"></i></span></a></li>
+                                            <li
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-614 mfn-menu-li">
+                                                <a href="news/" class="mfn-menu-link"><span
+                                                        class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                        class="label-wrapper mfn-menu-label-wrapper"><span
+                                                            class="menu-label">News</span></span><span
+                                                        class="menu-sub mfn-menu-sub-subicon"><i
+                                                            class="fas fa-arrow-right"></i></span></a></li>
+                                            <li
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-625 mfn-menu-li">
+                                                <a href="success-stories/"
+                                                    class="mfn-menu-link"><span
+                                                        class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                        class="label-wrapper mfn-menu-label-wrapper"><span
+                                                            class="menu-label">Success Stories</span></span><span
+                                                        class="menu-sub mfn-menu-sub-subicon"><i
+                                                            class="fas fa-arrow-right"></i></span></a></li>
+                                            <li
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-636 mfn-menu-li">
+                                                <a href="gallery/"
+                                                    class="mfn-menu-link"><span
+                                                        class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                        class="label-wrapper mfn-menu-label-wrapper"><span
+                                                            class="menu-label">Gallery</span></span><span
+                                                        class="menu-sub mfn-menu-sub-subicon"><i
+                                                            class="fas fa-arrow-right"></i></span></a></li>
+                                        </ul>
+                                    </li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13 mfn-menu-li">
+                                        <a href="contact-us/" class="mfn-menu-link"><span
+                                                class="menu-item-helper mfn-menu-item-helper"></span><span
+                                                class="label-wrapper mfn-menu-label-wrapper"><span
+                                                    class="menu-label">Contact us</span></span><span
+                                                class="menu-sub mfn-menu-subicon"><i
+                                                    class="fas fa-arrow-down"></i></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="wrap mcb-wrap mcb-wrap-7wpjtnf6r mcb-header-wrap one tablet-one laptop-one mobile-one clearfix"
+                    data-desktop-col="one" data-laptop-col="laptop-one" data-tablet-col="tablet-one"
+                    data-mobile-col="mobile-one" style="">
+                    <div class="mcb-wrap-inner mcb-wrap-inner-7wpjtnf6r mfn-module-wrapper mfn-wrapper-for-wraps">
+                        <div class="mcb-wrap-background-overlay"></div>
+                        <div class="column mcb-column mcb-item-wfrjkqsyo one laptop-one tablet-one mobile-one column_button mfn-item-inline"
+                            style="">
+                            <div
+                                class="mcb-column-inner mfn-module-wrapper mcb-column-inner-wfrjkqsyo mcb-item-button-inner">
+                                <a class="button  button_theme button_size_2" href="tel:+971507702600" title="" style = "border-radius: 47px 47px 47px 47px;background-color: #f5cb5c;padding: 16px 24px 16px 24px;color: black;"><span
+                                        class="button_label">Call us</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</header>
+<!-- mfn_hook_content_before --><!-- mfn_hook_content_before -->
+
