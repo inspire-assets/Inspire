@@ -9,7 +9,7 @@ Version: 2.0.2
 */
 @font-face {
     font-family: 'Arial Text Regular'; /*a name to be used later*/
-    src: url('https://devfolder.in/inspire/font/arial.ttf'); /*URL to font*/
+    src: url('https://cdn.jsdelivr.net/gh/inspire-assets/Inspire@main/devfolder_in/inspire/font/arial.ttf'); /*URL to font*/
 }
 p, a, span, li, div {
     font-family: 'Arial Text Regular' !important;
@@ -17,7 +17,7 @@ p, a, span, li, div {
 
 @font-face {
     font-family: 'Arial Heading Regular'; /*a name to be used later*/
-    src: url('https://devfolder.in/inspire/font/arial.ttf'); /*URL to font*/
+    src: url('https://cdn.jsdelivr.net/gh/inspire-assets/Inspire@main/devfolder_in/inspire/font/arial.ttf'); /*URL to font*/
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @font-face {
     font-family: 'Arial Text Bold'; /*a name to be used later*/
-    src: url('https://devfolder.in/inspire/font/arial.ttf'); /*URL to font*/
+    src: url('https://cdn.jsdelivr.net/gh/inspire-assets/Inspire@main/devfolder_in/inspire/font/arial.ttf'); /*URL to font*/
 }
 
 b, strong {
